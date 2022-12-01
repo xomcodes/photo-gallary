@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.heading{
+text-align: center;
+margin-top: 2rem ;
+font-size:20px;
+font-weight: bold;
+}
+
+
+.img-text{
+    color:orangered;
+    text-align:center;
+    font:medium ;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+
+
